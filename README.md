@@ -26,6 +26,6 @@
 <p align="center">
     <a><img src="https://github.com/Beunhaazzz/Beunhaazzz/blob/main/Images/VisualStudio.svg" alt="VisualStudio" width="60" height="60" /></a>
     <a><img src="https://github.com/Beunhaazzz/Beunhaazzz/blob/main/Images/VisualStudioCode.svg" alt="VisualStudioCode" width="60" height="60" /></a>
-    <a><img src="https://github.com/Beunhaazzz/Beunhaazzz/blob/main/Images/Eclipse.svg" alt="Eclipse" width="60" height="60" /></a>
+    <a><img src="https://github.com/Beunhaazzz/Beunhaazzz/blob/main/Images/eclipse.svg" alt="Eclipse" width="60" height="60" /></a>
     <a><img src="https://github.com/Beunhaazzz/Beunhaazzz/blob/main/Images/Notepad.svg" alt="Notepad" width="60" height="60" /></a>
 </p>
