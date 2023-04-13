@@ -13,7 +13,7 @@
 <p align="center">
     <a><img src="https://github.com/Beunhaazzz/Beunhaazzz/blob/main/Images/lua.svg" alt="Lua" width="60" height="60"/></a>
     <a><img src="https://github.com/Beunhaazzz/Beunhaazzz/blob/main/Images/python.svg" alt="Python" width="60" height="60"/></a>
-    <a><img src="https://github.com/Beunhaazzz/Beunhaazzz/blob/main/Images/xml.svg" alt="Xml" width="60" height="60"/></a>
+<!--     <a><img src="https://github.com/Beunhaazzz/Beunhaazzz/blob/main/Images/xml.svg" alt="Xml" width="60" height="60"/></a> -->
     <a><img src="https://github.com/Beunhaazzz/Beunhaazzz/blob/main/Images/css.svg" alt="Css" width="60" height="60"/></a>
     <a><img src="https://github.com/Beunhaazzz/Beunhaazzz/blob/main/Images/html5.svg" alt="Html5" width="60" height="60"/></a>
     <a><img src="https://github.com/Beunhaazzz/Beunhaazzz/blob/main/Images/powershell.svg" alt="PowerShell" width="60" height="60"/></a>
